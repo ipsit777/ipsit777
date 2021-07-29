@@ -1,3 +1,5 @@
+Data Science: Worked on various regression models for proper data analysis and outcome.
+Data Analysis: Worked on Powee Bi amd Tableau for visualization of the data.
 Resource Management:
 Taking up the resource requirements from the respective client PM’s and shared it with RMG (Internal and External) team and published the requirement in internal Job portal.
 Presented the fulfilment plan to all the stakeholders and took their inputs.
