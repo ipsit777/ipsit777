@@ -1,3 +1,5 @@
+![CULTURE IMPACT](https://user-images.githubusercontent.com/88097997/128964299-26ec354c-3a3f-45c4-b9cd-e97d53eafd93.PNG)
+
 Data Science: Worked on various regression models for proper data analysis and outcome.
 Data Analysis: Worked on Powee Bi amd Tableau for visualization of the data.
 Resource Management:
